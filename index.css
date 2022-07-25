@@ -1,0 +1,157 @@
+body{
+    width: 90%;
+}
+.btn{
+    border:none;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;  
+}
+.search{
+    border:2px solid blue ; border-radius:20px;padding: 6px;width: 250px;
+}
+.img1{
+    height: 35px;
+    width: 35px;
+}
+.img1:hover{
+    transform: scale(1.5); 
+
+} 
+ /* .a1{
+    background-image: url(./dowmload3.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 160%;
+    height: 900px; 
+    margin-left:80px ;
+ } */
+ #img3{
+    margin-top: 100px;
+    margin-left: -10px;
+    
+ }
+ #img3:hover{
+    transform: scale(1.1); 
+
+}
+.a2{
+    background-image: url(./download9.webp);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 90%;
+    margin-left: 150px;
+}
+ 
+.a3{
+    font-size: 50px;
+    margin-left: 500px;
+    color: aliceblue;
+}
+#row1:hover{
+    transform: scale(1.1);  ;
+}
+#row2:hover{
+    transform: scale(1.1);  ;
+}
+#row3:hover{
+    transform: scale(1.1);  ;
+}
+#row4{
+     text-align: center;
+    font-size: 40px;
+    color: rgb(245, 87, 237);
+}
+#row4:hover{
+    transition: all 200ms ease-in-out;
+    transform: scale(1.5);
+}
+ #img4{
+ width: 100px;
+    
+    
+ } 
+  #img4:hover{
+    transform: scale(1.04); 
+
+} 
+.a5{
+    background-image: url(./download14.webp);
+    width: 105%;
+    height: 140px;
+    margin-left: 40px;
+}
+.a6{
+    background-color:azure;
+    width:95% ;
+    height: 100px;
+    margin-left: 40px;
+}
+.a7{
+    font-size: 25px;
+    text-align: center;
+}
+#row5{
+    margin-left: 700px;
+    margin-top: -70px;
+}
+#row7{
+    width: 50%;
+       
+       
+    } 
+     #row7:hover{
+       transform: scale(1.04); 
+   
+   } 
+   .a8{
+    text-align: center;
+    font-size: 45px;
+    margin-left: 100px;
+    color: rgb(8, 84, 105);
+   }
+   #row9{
+    margin-left: 60px;
+   }
+   .a10{
+    color: rgb(180, 15, 169);
+    text-align: center;
+    font-size: 40px;
+   }
+   .a20{
+    text-align: center;
+    font-size: 40px;
+   }
+   .background{
+    background-image: url(./download14.webp);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 90%;
+    margin-left: 150px;
+}
+#row11{
+    margin-top: 100px;
+    transition: all 300ms ease-in-out;
+
+}
+#row21{
+    transition: all 300ms ease-in-out;
+    margin-top: 100px;
+}
+#row31{
+    transition: all 300ms ease-in-out;
+    margin-top: 100px;
+}
+#row11:hover{
+    transform: scale(1.1);  ;
+}
+#row21:hover{
+    transform: scale(1.1);  ;
+}
+#row31:hover{
+    transform: scale(1.1);  ;
+}
