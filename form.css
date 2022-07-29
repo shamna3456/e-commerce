@@ -1,0 +1,49 @@
+/* body{
+    background-image: url(./images/login4.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+    
+} */
+.heading{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 200px;
+}
+input,.submit-btn{
+    color: aliceblue;
+    text-transform: capitalize;
+    transition: .5s;
+    margin-left: 670px;
+    margin-top: 10px;
+}
+.submit-btn{
+color:#000;
+font-size: 15px;
+}
+.submit-btn:hover{
+color: aliceblue;
+background-color: black;
+}
+input::placeholder{
+    color: #000;
+}
+input:focus{
+    background: white;
+    color: #000;
+}
+.link{
+    text-align: center;
+    text-transform: capitalize;
+    color:white;
+    display: block;
+
+}
+.link:hover{
+    color:red;
+}
+body{
+    background-image: url(./images/login12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
